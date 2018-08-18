@@ -10,7 +10,7 @@ Let's see how easy it is to install `NGINX`, `PHP`, `Composer`, `MySQL` and `Red
 1. Get Magedock inside your Magento project: 
 
 ```bash
-git submodule add https://github.com/ojhaujjwal/magedock.git
+git submodule add https://github.com/damianfabian/docker-magento2.git
 ```
 2. Copy local.env.sample to local.env and modify it to your needs.
 3. Enter the magedock folder and run only these Containers: 
